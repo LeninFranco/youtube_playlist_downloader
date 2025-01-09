@@ -1,4 +1,4 @@
-from moviepy.editor import AudioFileClip
+from moviepy.audio.io.AudioFileClip import AudioFileClip
 import os
 
 # Carpeta de destino con archivos .webm
